@@ -1,6 +1,6 @@
 # long-platformer
 
-I broke everything due to unfortunate circumstances, and as such, the acctual game will not be uploaded at this time.
+
 
 
 a game designed to be terrible.
